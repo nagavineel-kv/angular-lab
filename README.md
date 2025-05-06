@@ -1,4 +1,4 @@
-# 🚀 angular-lab
+# 🚀 Angular-Lab
 
 Exploring key features of modern Angular development using Angular CLI, Routing, Services, Forms, and Component Architecture.
 
